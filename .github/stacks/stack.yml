@@ -1,7 +1,7 @@
 name: log-stack-koushdey
 description: Test logging sanity
 branding:
-  icon: 'activity'
+  icon: 'arrow-up'
   color: 'black'
 
 #-------------------------------------------------------------
