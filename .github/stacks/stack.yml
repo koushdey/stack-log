@@ -29,7 +29,7 @@ configs:
   # Meta data for creating the new repository
  repo-metadata:
     parameters:
-      description: This is a test stack for testing.
+      description: This is a test stack for logging.
       topics:
       - node
       - sql
